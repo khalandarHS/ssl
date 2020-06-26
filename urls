@@ -1,12 +1,32 @@
 
+IBM creating a self-signed certificate
+
+https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/tsec_sslcreateselfsigncert.html
+
+
 
 how to create a self signed certificate
-
 
 https://www.akadia.com/services/ssh_test_certificate.html
 
 
+
 verifiying Certificates?
 
-
 https://www.kinamo.be/en/support/faq/useful-openssl-commands
+
+
+
+
+The Most Common OpenSSL Commands
+
+https://www.sslshopper.com/article-most-common-openssl-commands.html
+https://www.kinamo.be/en/support/faq/useful-openssl-commands
+
+
+
+SSL tools
+
+https://www.sslshopper.com/ssl-checker.html
+https://www.sslshopper.com/certificate-decoder.html
+
